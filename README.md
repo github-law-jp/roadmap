@@ -5,8 +5,9 @@ import diet deliberations in Japan to Github.com
 
 # mapping
 
-| repo              | 法案               |
+| Github            | 国会               |
 |-------------------|--------------------|
+| repo              | 法案               |
 | users             | 国会議員・役人     |
 | pull requests     | 各委 員会 / 衆参院 |
 | comments on pulls | 委員会等での発言   |
